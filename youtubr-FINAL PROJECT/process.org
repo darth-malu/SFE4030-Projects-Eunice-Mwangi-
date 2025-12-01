@@ -1,0 +1,14 @@
+#+title: Process
+
+* stuff I need to do
++ [ ] Modules [0/3]
+  + [ ] QWidgets:
+    + [ ] QApplication
+    + [ ] QMainWindow
+    + [ ] Qwidget
+  + [ ] pytube
+  + [ ] sys
++ [ ] figma
++ [ ] some interesting stuff to try
+  + [ ] QFileDialog.getExistingDirectory()
+  + [ ] QProgressBar

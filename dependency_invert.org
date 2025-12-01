@@ -1,0 +1,20 @@
+
+* Topics
++ Dependency inversion
+  Is a key principle of SOLID
+  
+  It talks about coupling between different classes or modules
+
+  It focuses on the approach where the higher classes are not dependent on the lower classes but instead
+    depend upon the abstraction of the lower classes.
+
+  The main motto of dependency inversion is:
+
+  #+begin_quote
+  Any higher classes should always depend upon the abstraction of the class rather than the detail
+  #+end_quote
+
+  
+
++ encapsulation
++ polymorphism
